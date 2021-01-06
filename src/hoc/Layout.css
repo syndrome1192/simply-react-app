@@ -1,0 +1,15 @@
+.header {
+    position: sticky;
+    top: 0;
+}
+
+
+nav span {
+    color: #fff;
+}
+
+.links{
+    color: #fff;
+    font-size: 18px;
+}
+
